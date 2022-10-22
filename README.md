@@ -1,5 +1,6 @@
 # Cycle
-Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them. Basically that one motorcycle chase scene from Tron, hence why I added more colors... couldn't find that one orange color the bad guys uses but this would do enough.
+Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them. Basically that one motorcycle chase scene from Tron, hence why I added more colors... couldn't find that one orange color the bad guys uses but this would do enough. THIS IS ALSO A TWO PLAYER LOCAL CO-OP GAME!!!
+PLAYER ONE moves with the WASD while PLAYER TWO moves with the IJKL.. and remember what Ghostbusters said, DO NOT CROSS THE STREAMS!!
 
 ## Getting Started
 ---
